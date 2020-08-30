@@ -1,0 +1,24 @@
+.container {
+    margin-top: 20px;
+    float: center;
+}
+.card-deck {
+    margin-top: 20px;
+}
+.card-title {
+    font-size: 24px;
+}
+.card-text {
+    font-size: 20px;
+}
+p {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 24px;
+}
+.container-form {
+    margin-top: 20px;
+    float: center;
+}
+.col-sm-6 {
+    font-size: 24px;
+}
