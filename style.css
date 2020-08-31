@@ -28,3 +28,9 @@ p {
 ul a {
     color: white;
 }
+#contact-info h2 {
+    font-size: 24px;
+}
+#contact-info ul li {
+    font-size: 22px;
+}
