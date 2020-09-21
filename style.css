@@ -5,6 +5,9 @@
     margin-top: 20px;
     float: center;
 }
+.card {
+    margin: 10px;
+}
 .card-deck {
     margin-top: 20px;
 }
